@@ -38,3 +38,8 @@ API response for /recommend end point:
     ]
   ]
 }
+
+
+#Deploy streamlit app
+cd UI
+python -m streamlit run app.py
