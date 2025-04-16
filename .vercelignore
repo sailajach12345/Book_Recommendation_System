@@ -1,0 +1,4 @@
+# .vercelignore
+*.csv
+*.ipynb
+/Data/*
