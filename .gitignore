@@ -2,5 +2,6 @@
 *.pyc
 .idea
 API/__pycache__/*.pyc
-API/__pycache__/
+api/__pycache__/
+API/__pycache__/recommender.cpython-313.pyc
 
